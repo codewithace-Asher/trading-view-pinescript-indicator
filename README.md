@@ -18,15 +18,15 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 
 ---
 <h2>BTC / TETHERUS - Weekly Timeframe</h2>
-![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/61685afbab11514caa105657db1e06dabf7e8079/weekly.jpg.jpg)<br>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss1.jpg)<br>
 
 ---
 <h2>BTC / TETHERUS - Daily Timeframe</h2>
-![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/61685afbab11514caa105657db1e06dabf7e8079/daily.jpg)<br>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss3.jpg)<br>
 
 ---
 <h2>BTC / TETHERUS - 4HR Timeframe</h2>
-![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/61685afbab11514caa105657db1e06dabf7e8079/4hr.jpg)<br>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss2.jpg)<br>
 
 ---
 
