@@ -1,6 +1,6 @@
 # Trading View Pinescript Indicator<br>
-<h1 align="center>Custom Indicator via PineScript ( TradingView) </h1><br>
-<h2 align="center>Trending Market Bias / Dynasty Ribbon </h2><br>
+<h1 align="center">Custom Indicator via PineScript ( TradingView) </h1><br>
+<h3 align="center">Trending Market Bias / Dynasty Ribbon </h3><br>
 
 <p align="center"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
