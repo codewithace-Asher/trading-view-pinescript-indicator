@@ -1,4 +1,3 @@
-# Trading View Pinescript Indicator<br>
 <h1 align="center">Custom Indicator via PineScript ( TradingView) </h1><br>
 <h3 align="center">Trending Market Bias / Dynasty Ribbon </h3><br>
 
