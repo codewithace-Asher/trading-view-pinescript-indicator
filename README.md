@@ -10,13 +10,23 @@ Most traders overlook market direction and, at times, require a clearer picture 
 
 This is a personal indicator that I continue to use on a daily basis to provide me with an overall outlook on any potential trades/plays in the financial markets.<br>
 
----
-
-![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/355509735083cf052a3cdc24a3d14e2ba8aeaf54/Screenshot%202022-12-29%20221306.jpg)<br>
+Example Below : BTC / TETHERUS - Bitcoin - Live Chart 
 
 ---
 
-![screenshot](https://github.com/codewithace-Asher/hg.moko-portfolio-staticview/blob/56dc0d651a8039a53fb7e4f437e27989afaacfdb/profile-hg.moko.png)<br>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/p-script.jpg)<br>
+
+---
+<h2>BTC / TETHERUS - Weekly Timeframe</h2>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/weekly.png)<br>
+
+---
+<h2>BTC / TETHERUS - Daily Timeframe</h2>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/daily.png)<br>
+
+---
+<h2>BTC / TETHERUS - 4HR Timeframe</h2>
+![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/4hr.png)<br>
 
 ---
 
