@@ -9,9 +9,9 @@
 - When multiple emas cross, the ribbon changes colour depending on the direction of the market, Red - Bearish, Green - Bullish.<br>
 - Most traders overlook market direction and, at times, require a clearer picture of where the market is headed.<br>
 
-<p align="center>This is a personal indicator that I continue to use on a daily basis to provide me with an overall outlook on any potential trades/plays in the financial markets.</p><br>
+<p align="center">This is a personal indicator that I continue to use on a daily basis to provide me with an overall outlook on any potential trades/plays in the financial markets.</p><br>
 
-<p align="center>Example Below : BTC / TETHERUS - Bitcoin - Live Chart</p> 
+<p align="center">Example Below : BTC / TETHERUS - Bitcoin - Live Chart</p> 
 
 ---
 
