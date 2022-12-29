@@ -34,7 +34,7 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 
 <h1>License : </h1>
 Use it freely but please do not republish, distribute or sell "as-is".<br>
-This is not a financial advertisement, and results may vary when trading.
+This is NOT Financial Advice, and results may vary when trading.
 
 
 <h1>Follow me On : </h1>
