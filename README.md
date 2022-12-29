@@ -18,16 +18,17 @@
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/p-script.jpg)<br>
 
 ---
-<p align="center">### BTC / TETHERUS - BINANCE - Bitcoin- Weekly Timeframe :</p>
+<p align="center">BTC / TETHERUS - BINANCE - Bitcoin- Weekly Timeframe :</p>
+
 ![screenshot](ss1.jpg)<br>
 
 ---
-<p align="center">### BTC / TETHERUS - BINANCE - Bitcoin- Daily Timeframe :</p>
+<p align="center">BTC / TETHERUS - BINANCE - Bitcoin- Daily Timeframe :</p>
 
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss3.jpg)<br>
 
 ---
-<p align="center">### BTC / TETHERUS - BINANCE - Bitcoin- 4Hr Timeframe :</p>
+<p align="center">BTC / TETHERUS - BINANCE - Bitcoin- 4Hr Timeframe :</p>
 
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss2.jpg)<br>
 
