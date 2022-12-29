@@ -25,12 +25,12 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss3.jpg)<br>
 
 ---
-
+4Hr Timeframe
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/cefddb4787af76902629e86c805cc68722c5497f/ss2.jpg)<br>
 
 ---
 
-<h1>License : </h1><br>
+<h1>License : </h1>
 Use it freely but please do not republish, distribute or sell "as-is".<br>
 This is not fianancial adive and outcomes may vary when trading.
 
