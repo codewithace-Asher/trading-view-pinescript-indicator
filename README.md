@@ -17,7 +17,7 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 ![screenshot](https://github.com/codewithace-Asher/trading-view-pinescript-indicator/blob/ebd1d82d447a7058314b523d717c249c414b9ad1/p-script.jpg)<br>
 
 ---
-<h2>BTC / TETHERUS - Weekly Timeframe</h2>
+
 ![screenshot](ss1.jpg)<br>
 
 ---
