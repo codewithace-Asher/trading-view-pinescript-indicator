@@ -4,9 +4,9 @@
 
 ---
 
-This Custom Indicator was designed to provide a non-biased outlook on any financial market by combining multiple EMAs (expodential moving average).<br>
-When multiple emas cross, the ribbon changes colour depending on the direction of the market, Red - Bearish, Green - Bullish.<br>
-Most traders overlook market direction and, at times, require a clearer picture of where the market is headed.<br>
+- This Custom Indicator was designed to provide a non-biased outlook on any financial market by combining multiple EMAs (expodential moving average).<br>
+- When multiple emas cross, the ribbon changes colour depending on the direction of the market, Red - Bearish, Green - Bullish.<br>
+- Most traders overlook market direction and, at times, require a clearer picture of where the market is headed.<br>
 
 This is a personal indicator that I continue to use on a daily basis to provide me with an overall outlook on any potential trades/plays in the financial markets.<br>
 
@@ -34,7 +34,7 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 
 <h1>License : </h1>
 Use it freely but please do not republish, distribute or sell "as-is".<br>
-This is not fianancial adive and outcomes may vary when trading.
+This is not a financial advertisement, and results may vary when trading.
 
 
 <h1>Follow me On : </h1>
