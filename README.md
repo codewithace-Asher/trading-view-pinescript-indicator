@@ -1,6 +1,8 @@
 # Trading View Pinescript Indicator<br>
-<h1>Custom Indicator via PineScript ( TradingView) </h1><br>
-<h2>Trending Market Bias / Dynasty Ribbon </h2><br>
+<h1 align="center>Custom Indicator via PineScript ( TradingView) </h1><br>
+<h2 align="center>Trending Market Bias / Dynasty Ribbon </h2><br>
+
+<p align="center"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
 ---
 
@@ -32,16 +34,16 @@ Example Below : BTC / TETHERUS - Bitcoin - Live Chart
 
 ---
 
-<h1>License : </h1>
-Use it freely but please do not republish, distribute or sell "as-is".<br>
-This is NOT Financial Advice, and results may vary when trading.
+<h1 align="center>License : </h1>
+<p align="center">Use it freely but please do not republish, distribute or sell "as-is".<br>
+This is NOT Financial Advice, and results may vary when trading.</p>
 
 
-<h1>Follow me On : </h1>
-Follow me on : <br>
-<a href="https://codepen.io/_AC3" target="blank">CodePen</a><br>
-<a href="https://github.com/codewithace-Asher" target="blank">Github</a><br>
-<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a><br>
-<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a><br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/_AC3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/_ac3" height="30" width="40" /></a>
+<a href="https://twitter.com/asher_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asher_dev_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithace-asher/" height="30" width="40" /></a>
+</p>
 
 ---
