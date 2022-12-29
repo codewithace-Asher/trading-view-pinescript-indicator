@@ -33,7 +33,7 @@
 
 ---
 
-<h1 align="center>License : </h1>
+<h1 align="center">License : </h1>
 <p align="center">Use it freely but please do not republish, distribute or sell "as-is".<br>
 This is NOT Financial Advice, and results may vary when trading.</p>
 
